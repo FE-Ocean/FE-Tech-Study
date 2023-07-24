@@ -24,3 +24,4 @@
 | 20주차 |                 [HTTP, HTTPS](./20_HTTP_HTTPS)                  |
 | 21주차 |        [이벤트 핸들러 및 흐름](./21_Event_Handler_Flow)         |
 | 22주차 |        [프로세스, 스레드](./22_Process_Thread)         |
+| 23주차 |        [프로세스 스케줄링](./23_Process_Scheduling)         |
