@@ -23,6 +23,7 @@
 | 19주차 |                      [CI, CD](./19_CI_CD)                       |
 | 20주차 |                 [HTTP, HTTPS](./20_HTTP_HTTPS)                  |
 | 21주차 |        [이벤트 핸들러 및 흐름](./21_Event_Handler_Flow)         |
-| 22주차 |        [프로세스, 스레드](./22_Process_Thread)         |
-| 23주차 |        [프로세스 스케줄링](./23_Process_Scheduling)         |
-| 24주차 |        [JWT](./23_JWT)         |
+| 22주차 |             [프로세스, 스레드](./22_Process_Thread)             |
+| 23주차 |          [프로세스 스케줄링](./23_Process_Scheduling)           |
+| 24주차 |                         [JWT](./24_JWT)                         |
+| 25주차 |              [월드 와이드 웹](./25_World_Wide_Web)              |
