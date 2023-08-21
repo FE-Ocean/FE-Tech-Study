@@ -27,3 +27,4 @@
 | 23주차 |          [프로세스 스케줄링](./23_Process_Scheduling)           |
 | 24주차 |                         [JWT](./24_JWT)                         |
 | 25주차 |              [월드 와이드 웹](./25_World_Wide_Web)              |
+| 26주차 |       [웹 표준, 웹 접근성](./26_Web_Standards_Accessibility)       |
