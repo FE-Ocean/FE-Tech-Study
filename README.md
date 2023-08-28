@@ -28,3 +28,4 @@
 | 24주차 |                         [JWT](./24_JWT)                         |
 | 25주차 |              [월드 와이드 웹](./25_World_Wide_Web)              |
 | 26주차 |       [웹 표준, 웹 접근성](./26_Web_Standards_Accessibility)       |
+| 27주차 |       [웹소켓](./27_WebSocket)       |
