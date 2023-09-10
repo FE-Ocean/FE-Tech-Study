@@ -29,3 +29,5 @@
 | 25주차 |              [월드 와이드 웹](./25_World_Wide_Web)              |
 | 26주차 |       [웹 표준, 웹 접근성](./26_Web_Standards_Accessibility)       |
 | 27주차 |       [웹소켓](./27_WebSocket)       |
+|28주차|[패키지 매니저](./28_Package_Manager)|
+|29주차|[불변성](./29_Immutability)|
