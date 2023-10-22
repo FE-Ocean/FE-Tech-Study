@@ -27,9 +27,11 @@
 | 23주차 |          [프로세스 스케줄링](./23_Process_Scheduling)           |
 | 24주차 |                         [JWT](./24_JWT)                         |
 | 25주차 |              [월드 와이드 웹](./25_World_Wide_Web)              |
-| 26주차 |       [웹 표준, 웹 접근성](./26_Web_Standards_Accessibility)       |
-| 27주차 |       [웹소켓](./27_WebSocket)       |
-|28주차|[패키지 매니저](./28_Package_Manager)|
-|29주차|[불변성](./29_Immutability)|
-|30주차|[콜백 함수](./30_Callback_Function)|
-|31주차|[제네릭](./31_Generics)|
+| 26주차 |     [웹 표준, 웹 접근성](./26_Web_Standards_Accessibility)      |
+| 27주차 |                    [웹소켓](./27_WebSocket)                     |
+| 28주차 |              [패키지 매니저](./28_Package_Manager)              |
+| 29주차 |                   [불변성](./29_Immutability)                   |
+| 30주차 |               [콜백 함수](./30_Callback_Function)               |
+| 31주차 |                     [제네릭](./31_Generics)                     |
+| 32주차 |                   [XSS, CSRF](./32_XSS_CSRF)                    |
+| 33주차 |                     [Promise](./33_Promise)                     |
