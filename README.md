@@ -35,3 +35,4 @@
 | 31주차 |                     [제네릭](./31_Generics)                     |
 | 32주차 |                   [XSS, CSRF](./32_XSS_CSRF)                    |
 | 33주차 |                     [Promise](./33_Promise)                     |
+| 34주차 |                     [async, await](./34_async_await)                     |
