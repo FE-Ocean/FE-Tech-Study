@@ -37,3 +37,4 @@
 | 33주차 |                     [Promise](./33_Promise)                     |
 | 34주차 |                     [async, await](./34_async_await)                     |
 | 35주차 |                     [Iterable](./35_Iterable)                     |
+| 36주차 |        [고정 소수점, 부동 소수점](./36_Fixed_Floating_Point)        |
