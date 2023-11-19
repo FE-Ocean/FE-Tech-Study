@@ -35,6 +35,7 @@
 | 31주차 |                     [제네릭](./31_Generics)                     |
 | 32주차 |                   [XSS, CSRF](./32_XSS_CSRF)                    |
 | 33주차 |                     [Promise](./33_Promise)                     |
-| 34주차 |                     [async, await](./34_async_await)                     |
-| 35주차 |                     [Iterable](./35_Iterable)                     |
-| 36주차 |        [고정 소수점, 부동 소수점](./36_Fixed_Floating_Point)        |
+| 34주차 |                [async, await](./34_async_await)                 |
+| 35주차 |                    [Iterable](./35_Iterable)                    |
+| 36주차 |      [고정 소수점, 부동 소수점](./36_Fixed_Floating_Point)      |
+| 36주차 |               [모듈 번들러](./37_Module_Bundler)                |
