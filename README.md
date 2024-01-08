@@ -41,3 +41,6 @@
 | 37주차 |               [모듈 번들러](./37_Module_Bundler)                |
 | 38주차 |           [컴파일러, 인터프리터](./38_Compiler_Interpreer)           |
 | 39주차 |           [캐시](./39_Cache)           |
+| 40주차 |           [Core Web Vitals](./40_Core_Web_Vitals)           |
+| 41주차 |           [함수형 프로그래밍](./41_Functional_Programming)           |
+| 42주차 |           [Stack, Queue, Deque](./42_Stack_Queue_Deque)           |
