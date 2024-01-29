@@ -45,3 +45,4 @@
 | 41주차 |           [함수형 프로그래밍](./41_Functional_Programming)           |
 | 42주차 |           [Stack, Queue, Deque](./42_Stack_Queue_Deque)           |
 | 43주차 |           [Debouncing, Throttling](./43_Debouncing_Throttling)           |
+| 44주차 |           [프록시](./44_Proxy)           |
