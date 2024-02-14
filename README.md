@@ -47,3 +47,4 @@
 | 43주차 |           [Debouncing, Throttling](./43_Debouncing_Throttling)           |
 | 44주차 |           [프록시](./44_Proxy)           |
 | 45주차 |           [CDN](./45_CDN)           |
+| 46주차 |           [MVC](./46_MVC)           |
