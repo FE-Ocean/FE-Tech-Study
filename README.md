@@ -52,3 +52,4 @@
 | 48주차 |           [TCP/IP 4계층](./48_TCP_IP_4_Layer)           |
 | 49주차 |           [CSS의 position 속성](./49_CSS_position)           |
 | 50주차 |           [UDP](./50_UDP)           |
+| 51주차 |           [require과 import의 차이](./51_require_import)           |
