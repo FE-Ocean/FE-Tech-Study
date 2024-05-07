@@ -55,3 +55,4 @@
 | 51주차 |           [require과 import의 차이](./51_require_import)           |
 | 52주차 |           [HashTable](./52_HashTable)           |
 | 53주차 |           [DNS](./53_DNS)           |
+| 54주차 |           [전략패턴](./54_Strategy_Pattern)           |
