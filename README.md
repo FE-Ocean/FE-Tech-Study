@@ -57,3 +57,4 @@
 | 53주차 |           [DNS](./53_DNS)           |
 | 54주차 |           [전략패턴](./54_Strategy_Pattern)           |
 | 55주차 |           [표현식과 문](./55_Expression_Statement)           |
+| 56주차 |           [변수 섀도잉](./56_Variable_Shadowing)           |
