@@ -61,3 +61,4 @@
 | 57주차 |           [HTTP](./57_HTTP)           |
 | 58주차 |           [formData 객체](./58_FormData)           |
 | 59주차 |           [HTTP 헤더](./59_HTTP_Header)           |
+| 60주차 |           [가비지 컬렉션](./60_Garbage_Collection)           |
