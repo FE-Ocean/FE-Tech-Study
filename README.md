@@ -67,3 +67,4 @@
 | 63주차 |           [URL](./63_URL)           |
 | 64주차 |           [Polyfill](./64_Polyfill)           |
 | 65주차 |           [IP 주소](./65_IP_Address)           |
+| 66주차 |           [CTA : Call To Action](./66_CTA)           |
