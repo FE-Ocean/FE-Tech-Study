@@ -70,3 +70,4 @@
 | 66주차 |           [CTA : Call To Action](./66_CTA)           |
 | 67주차 |           [타입 가드 (TypeScript Type Guard)](./67_Type_Guard)           |
 | 68주차 |           [믹스인 (Mixin)](./68_Mixin)           |
+| 69주차 |           [정적/동적 웹](./69_Static_Dynamic_Web)           |
